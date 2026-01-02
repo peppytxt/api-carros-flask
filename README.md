@@ -7,6 +7,7 @@ separação de responsabilidades e testes automatizados.
 - Python
 - Flask
 - Pytest
+- JSON
 
 ## 📌 Funcionalidades
 - CRUD de carros
